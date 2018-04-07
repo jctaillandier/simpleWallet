@@ -1,7 +1,6 @@
 pragma solidity ^0.4.21;
 
-import "github.com/ethereum/solidity/std/mortal.sol";
-import "github.com/ethereum/solidity/std/owned.sol";
+import "/owned.sol";
 
 contract SimpleWallet is mortal {
 
